@@ -219,13 +219,12 @@ The per-window predictions of every model are released as `lensnet_predictions.t
 ## 📄 Citation
 
 ```bibtex
-@article{samanta2026fusing,
-  title   = {Fusing Language and Motion Evidence Under Domain Shift: A Source-Controlled Study of
-             Cross-Dataset Violence Detection},
-  author  = {Samanta, Soma and Singh, Akhil Pratap and Khurana, Manju and Tiwari, Shailendra},
-  journal = {Information Fusion},
-  note    = {Under review},
-  year    = {2026}
+@unpublished{samanta2026fusing,
+  title  = {Fusing Language and Motion Evidence Under Domain Shift: A Source-Controlled Study of
+            Cross-Dataset Violence Detection},
+  author = {Samanta, Soma and Singh, Akhil Pratap and Khurana, Manju and Tiwari, Shailendra},
+  note   = {Submitted to Information Fusion. Code: https://github.com/Soma2024-08/LENS-Net},
+  year   = {2026}
 }
 ```
 

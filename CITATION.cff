@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this code or the source-controlled splits, please cite the paper."
-title: "Fusing Language and Motion Evidence Under Domain Shift: A Source-Controlled Study of Cross-Dataset Violence Detection"
+message: "If you use this code or the source-controlled splits, please cite the paper below."
+title: "LENS-Net: code and data tables for a source-controlled study of cross-dataset violence detection"
 type: software
+version: "1.0"
+date-released: "2026-11-17"
 license: MIT
 repository-code: "https://github.com/Soma2024-08/LENS-Net"
-authors:
+authors: &authors
   - given-names: Soma
     family-names: Samanta
     affiliation: "Dayananda Sagar University, Bengaluru, India"
@@ -24,3 +26,10 @@ keywords:
   - cross-dataset generalisation
   - vision-language models
   - data leakage
+preferred-citation:
+  type: article
+  title: "Fusing Language and Motion Evidence Under Domain Shift: A Source-Controlled Study of Cross-Dataset Violence Detection"
+  authors: *authors
+  journal: "Information Fusion"
+  status: submitted
+  year: 2026
