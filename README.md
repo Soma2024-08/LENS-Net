@@ -29,11 +29,11 @@ evidence switchable and every claim pre-registered.
 
 | | Research question | Answer in one line |
 |---|---|---|
-| **RQ1** | How much do standard splits share sources between training and test data? | Under random 80/20 splits, **24.4–55.6 %** of test videos in RLVS, Hockey Fights and RWF-2000 share a camera or scene with a training video. |
+| **RQ1** | How much do standard splits share sources between training and test data? | Under random 80/20 splits, **24.4–55.6%** of test videos in RLVS, Hockey Fights and RWF-2000 share a camera or scene with a training video. |
 | **RQ2** | When does *feature-level* fusion of heterogeneous evidence transfer? | A frozen language-anchored CLIP classifier (**1.5k** trained parameters) transfers as well as the best tuned or LoRA-adapted video model; learned prompt-signal and motion corrections help on some datasets and hurt on others. |
 | **RQ3** | Which *decision-level* fusion transfers, and why? | Averaging the full model with its anchor (**LENS-Net-A**) is the most robust confirmed rule. No rule with weights fitted on source data transferred significantly better, and on five untouched samples none of 23 other rules was consistently better. |
 
-**LENS-Net** is the measurement instrument, not a proposed product. It keeps CLIP ViT-L/14 and VideoMAE-B frozen,
+**LENS-Net** is the measurement instrument of the study, not a proposed detector. It keeps CLIP ViT-L/14 and VideoMAE-B frozen,
 turns CLIP tokens into prompt-projected semantic signals (PPS), adds motion through gates that start at zero, and
 penalises losses that differ between source corpora: **31,926 trained parameters**, about 1.5 min of CPU per run.
 
@@ -78,7 +78,7 @@ video model rather than far ahead of it, and LENS-Net-A (87.61) remains the stro
 <img src="docs/assets/in_domain_vs_unseen.png" width="49%" alt="In-domain versus cross-dataset AUC">
 <img src="docs/assets/primary_claims.png" width="49%" alt="Primary claims with 95% intervals">
 </p>
-<p align="center"><sub><b>Left:</b> in-domain AUC (94.6–98.3 for every model) does not predict transfer (65.4–87.6). <b>Right:</b> the nine pre-registered primary claims with seed-aware 95 % intervals; filled = holds after Holm correction.</sub></p>
+<p align="center"><sub><b>Left:</b> in-domain AUC (94.6–98.3 for every model) does not predict transfer (65.4–87.6). <b>Right:</b> the nine pre-registered primary claims with seed-aware 95% intervals; filled = holds after Holm correction.</sub></p>
 
 ### RQ3: decision-level fusion on five untouched samples
 
