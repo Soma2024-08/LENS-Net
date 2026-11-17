@@ -8,13 +8,13 @@ jobs:
   unit-tests:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.9"
       - name: Install CPU dependencies (same versions as requirements.txt)
         run: |
-          pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cpu
           pip install numpy==2.0.2 pandas==2.3.3 scipy==1.13.1 scikit-learn==1.6.1 opencv-python-headless==5.0.0.93 pytest
       - name: Unit tests (no data needed)
         run: python -m pytest tests -q
