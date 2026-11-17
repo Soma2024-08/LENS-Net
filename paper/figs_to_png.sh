@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# Every paper figure as a 600-dpi PNG (user requirement; was 400 dpi before the single-column journal): TikZ diagrams via their standalone files, plots from the
-# vector PDFs written by the figure scripts. The drafts include only figs/*.png.
-set -e
+# Every paper figure as a 600-dpi PNG: TikZ diagrams via their standalone files, plots from the vector PDFs written by
+# the figure scripts.
+set -e; shopt -s nullglob
+# TikZ diagrams need the tectonic LaTeX engine (https://tectonic-typesetting.github.io); set TECTONIC=/path/to/tectonic if it is not on PATH.
 cd "$(dirname "$0")"
 TT=${TECTONIC:-tectonic}
 for s in arch paradigm; do

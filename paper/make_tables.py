@@ -202,7 +202,7 @@ if CR:
         lines.append(f"{lab} & {cell('VioPeru')} & {cell('AIRTLab')} \\\\")
         if k == "ZS": lines.append("\\midrule")
     (OUT / "tables/conf.tex").write_text("\n".join(lines) + "\n")
-    # journal Table II: the NCC main table plus the two further unseen sets (same row order as tables/main.tex)
+    # main results table: the unseen sets (same row order as tables/main.tex)
     order = ["MAST-Net", "ZS", "v2_audited_LP", "v2_audited_MP", "v2_audited_V2b", "v2_audited_LENS-M_vrex", None,
              "A1_r2plus1d_18", "A1_swin3d_t", "A1_videomae"]
     base_rows = (OUT / "tables/main.tex").read_text().rstrip("\n").split("\n")
@@ -393,7 +393,7 @@ if C2R and FGD and CR and CFR:
     mac("NsFgPostMovies", fmt(mean(c2m["v2_audited_LENS-FGpost_vrex"]["Movies"]))); mac("NsFgPostUbi", fmt(mean(c2m["v2_audited_LENS-FGpost_vrex"]["UBI-Fights"])))
     mac("NsNomoTMovies", fmt(mean(c2m["v2_std_std_rwf_V2b"]["Movies"]))); mac("NsLensTMovies", fmt(mean(c2m["v2_std_std_rwf_LENS-M_vrex"]["Movies"])))
     mac("FgTest", fmt(FGD["LENS-FG"][0]))
-# ================= TCSVT additions (PREREG_journal Sec. 6)
+# ================= CLIP-based comparisons, prompt study and frame-level protocol (PREREG_journal Sec. 6)
 TC, LT = JL("clip_methods_results.json"), JL("latency.json")
 if TC and LT:
     S7 = ["Test", "XD", "UCF", "SCFD", "SCVD", "VioPeru", "AIRTLab"]

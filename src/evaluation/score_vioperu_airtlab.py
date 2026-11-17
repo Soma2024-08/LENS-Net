@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Score models on the journal confirmation sets (PREREG_journal Sec. 3). Run ONCE, after all E1/E2 runs are final.
 Writes conf/preds/<tag><run>.csv (one row per conf window, order of lensnet_features/conf/index.csv; column p_violent).
-tag = "" for ViT-L/14 16 frames (NCC setting), else "b16_", "f8_", "b16_f8_" from LENS_BACKBONE / LENS_FRAMES.
+tag = "" for ViT-L/14 16 frames (the default setting), else "b16_", "f8_", "b16_f8_" from LENS_BACKBONE / LENS_FRAMES.
 Usage: score_vioperu_airtlab.py lensnet          (CPU; run once per LENS_BACKBONE/LENS_FRAMES setting)
        score_vioperu_airtlab.py gpu-baselines (GPU; fine-tuned video baselines A1/A2 and the CNN-BiGRU detector)"""
 import sys, json

@@ -21,7 +21,7 @@ sys.path.insert(0, str(ROOT))
 from video_data import cnn_bigru_model as mm
 from video_data.frame_store import FrameStore, content_key
 
-import os                                             # journal E2: LENS_BACKBONE=L14 (default, NCC) | B16
+import os                                             # E2: LENS_BACKBONE=L14 (default) | B16
 BB = os.environ.get("LENS_BACKBONE", "L14")
 CC = {"L14": dict(model="ViT-L-14-quickgelu", out=str(__import__("pathlib").Path(__import__("os").environ.get("LENSNET_ROOT") or __import__("pathlib").Path(__file__).resolve().parents[2]) / "workspace/features/l14"), dim=768, grid=16, width=1024),
       "B16": dict(model="ViT-B-16-quickgelu", out=str(__import__("pathlib").Path(__import__("os").environ.get("LENSNET_ROOT") or __import__("pathlib").Path(__file__).resolve().parents[2]) / "workspace/features/b16"), dim=512, grid=14, width=768)}[BB]

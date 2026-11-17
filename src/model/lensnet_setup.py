@@ -19,7 +19,7 @@ ROOT = __import__("pathlib").Path(__import__("os").environ.get("LENSNET_ROOT") o
 sys.path.insert(0, str(ROOT))
 from video_data import window_data as D
 
-# Journal E2 (PREREG_journal Sec. 2): LENS_BACKBONE=L14 (default, NCC) | B16; LENS_FRAMES=16 (default, NCC) | 8.
+# Journal E2 (PREREG_journal Sec. 2): LENS_BACKBONE=L14 (default) | B16; LENS_FRAMES=16 (default) | 8.
 BACKBONE = os.environ.get("LENS_BACKBONE", "L14")
 FRAMES = int(os.environ.get("LENS_FRAMES", "16"))
 CLIPCFG = {"L14": dict(model="ViT-L-14-quickgelu", tok="ViT-L-14", feat=str(__import__("pathlib").Path(__import__("os").environ.get("LENSNET_ROOT") or __import__("pathlib").Path(__file__).resolve().parents[2]) / "workspace/features/l14"), dim=768, grid=16, width=1024),
@@ -48,7 +48,7 @@ PROMPT_SETS = {"orig": {
 }
 PROMPT_SETS["broad"] = {0: PROMPT_SETS["orig"][0] + ["a person holding a tool while working", "a crowd cheering at a public event", "people dancing at a party"],
                         1: PROMPT_SETS["orig"][1] + ["a person shooting a gun at people", "a riot with people throwing objects", "a person attacking someone with a knife"]}
-PSET = os.environ.get("LENS_PROMPTS", "orig")              # journal 6B; default = NCC prompts
+PSET = os.environ.get("LENS_PROMPTS", "orig")              # prompt study (PREREG_journal Sec. 6B); default = the original prompts
 PROMPTS = PROMPT_SETS[PSET]
 NPROMPT = len(PROMPTS[0]) + len(PROMPTS[1])
 PSUF = "" if PSET == "orig" else f"_{PSET}"

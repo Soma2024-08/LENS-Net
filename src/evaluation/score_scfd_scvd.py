@@ -33,7 +33,7 @@ def dedup():
     print("excluded:", w.groupby("benchmark").excluded_near_duplicate.sum().to_dict(), "max cos quantiles", np.quantile(mx.numpy(), [0.5, 0.99, 1.0]).round(3))
 
 
-PT = ("" if L.BACKBONE == "L14" else "b16_") + ("" if L.FRAMES == 16 else f"f{L.FRAMES}_") + ("" if L.PSET == "orig" else f"p{L.PSET}_")  # journal: variant prefix (NCC setting: none)
+PT = ("" if L.BACKBONE == "L14" else "b16_") + ("" if L.FRAMES == 16 else f"f{L.FRAMES}_") + ("" if L.PSET == "orig" else f"p{L.PSET}_")  # variant prefix (none for the default ViT-L/14, 16 frames, original prompts)
 
 
 def lensnet_runs():

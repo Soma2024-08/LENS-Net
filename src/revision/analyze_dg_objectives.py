@@ -1,5 +1,5 @@
 """C1 (frozen part) and C3 analysis: AUCs of runs_review_heads on the audited test split and the nine unseen sets,
-with the same rows, labels and filters as saved_predictions.Data (which reproduces Table IV)."""
+with the same rows, labels and filters as saved_predictions.Data (which reproduces Table 5)."""
 import json, re, sys
 from pathlib import Path
 import numpy as np, pandas as pd
