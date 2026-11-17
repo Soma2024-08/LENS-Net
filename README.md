@@ -130,7 +130,7 @@ bash pipelines/01_features.sh   # ... through pipelines/08_revision.sh
 
 Every script finds the repository through `LENSNET_ROOT` (default: the clone itself), so no file needs editing.
 
-## 🗺️ Paper → code
+## 🧭 Paper → code
 
 | Paper | What | Code | Output |
 |---|---|---|---|
@@ -200,7 +200,7 @@ LENS-Net/
   (`results/revision/label_key_HIDDEN.csv`) was hidden from the labeller during labelling and is released for
   analysis.
 
-## 🗂️ Data
+## 💾 Data
 
 No video, frame or feature file is distributed; dataset licences forbid it. Download each dataset from its source
 (**[docs/DATA.md](docs/DATA.md)**). The window manifests in `data_tables/` identify every window used.
@@ -234,7 +234,7 @@ LENS-Net builds on [OpenAI CLIP](https://github.com/openai/CLIP), [OpenCLIP](htt
 and [VideoMAE](https://github.com/MCG-NJU/VideoMAE), and compares with [VadCLIP](https://github.com/nwpu-zxr/VadCLIP)
 and [X-CLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP). We thank the authors of every dataset listed above.
 
-## ⚖️ Responsible use
+## 🌍 Responsible use
 
 Violence detection is dual-use. Our results show that accuracy on new cameras can be markedly lower than on benchmark
 tests. A deployed detector should be evaluated on footage from its own cameras, operated under applicable law, and
