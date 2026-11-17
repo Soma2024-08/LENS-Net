@@ -179,7 +179,7 @@ LENS-Net/
 ├── reproduce/        get_predictions.sh, verify_paper.py
 ├── tests/            unit tests (no data needed), run by GitHub Actions
 ├── data_tables/      every window used: splits, same-source components, unseen and untouched sets
-├── results/          the JSON summaries every number in the paper is generated from
+├── results/          the JSON summaries every number in the paper is generated from (index: results/README.md)
 ├── prereg/           pre-registrations, deviations, checksums and OpenTimestamps proofs
 ├── paper/            table and figure generators
 └── docs/             dataset sources, README figures
