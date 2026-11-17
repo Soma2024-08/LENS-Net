@@ -1,0 +1,418 @@
+benchmark,video,category,binary_label,kaggle_ref,kaggle_file,bytes
+UCF-train,Abuse001_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse001_x264.mp4,21494969
+UCF-train,Abuse002_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse002_x264.mp4,7253682
+UCF-train,Abuse003_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse003_x264.mp4,25939775
+UCF-train,Abuse004_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse004_x264.mp4,64025784
+UCF-train,Abuse005_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse005_x264.mp4,6250495
+UCF-train,Abuse006_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse006_x264.mp4,36586782
+UCF-train,Abuse007_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse007_x264.mp4,8464924
+UCF-train,Abuse008_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse008_x264.mp4,36024957
+UCF-train,Abuse009_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse009_x264.mp4,8750168
+UCF-train,Abuse010_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse010_x264.mp4,10078329
+UCF-train,Abuse011_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse011_x264.mp4,15197900
+UCF-train,Abuse012_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse012_x264.mp4,30437863
+UCF-train,Abuse013_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse013_x264.mp4,39051428
+UCF-train,Abuse014_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse014_x264.mp4,6987750
+UCF-train,Abuse015_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse015_x264.mp4,20204035
+UCF-train,Abuse016_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse016_x264.mp4,9290914
+UCF-train,Abuse017_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse017_x264.mp4,11851134
+UCF-train,Abuse018_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse018_x264.mp4,7253522
+UCF-train,Abuse019_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse019_x264.mp4,26574637
+UCF-train,Abuse020_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse020_x264.mp4,22362007
+UCF-train,Abuse021_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse021_x264.mp4,6298482
+UCF-train,Abuse022_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse022_x264.mp4,19462399
+UCF-train,Abuse023_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse023_x264.mp4,6819565
+UCF-train,Abuse024_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse024_x264.mp4,8725688
+UCF-train,Abuse025_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse025_x264.mp4,16802570
+UCF-train,Abuse026_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse026_x264.mp4,16964153
+UCF-train,Abuse027_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse027_x264.mp4,28121676
+UCF-train,Abuse029_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse029_x264.mp4,1605302
+UCF-train,Abuse031_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse031_x264.mp4,24786085
+UCF-train,Abuse032_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse032_x264.mp4,20420144
+UCF-train,Abuse033_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse033_x264.mp4,22913127
+UCF-train,Abuse034_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse034_x264.mp4,13240893
+UCF-train,Abuse035_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse035_x264.mp4,23718636
+UCF-train,Abuse036_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse036_x264.mp4,40961654
+UCF-train,Abuse037_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse037_x264.mp4,8861107
+UCF-train,Abuse038_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse038_x264.mp4,7979033
+UCF-train,Abuse039_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse039_x264.mp4,99166430
+UCF-train,Abuse040_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse040_x264.mp4,16126433
+UCF-train,Abuse041_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse041_x264.mp4,11570925
+UCF-train,Abuse042_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse042_x264.mp4,214723655
+UCF-train,Abuse043_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse043_x264.mp4,33756700
+UCF-train,Abuse044_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse044_x264.mp4,32737452
+UCF-train,Abuse045_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse045_x264.mp4,21650729
+UCF-train,Abuse046_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse046_x264.mp4,10165052
+UCF-train,Abuse047_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse047_x264.mp4,8990328
+UCF-train,Abuse048_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse048_x264.mp4,25599941
+UCF-train,Abuse049_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse049_x264.mp4,17034376
+UCF-train,Abuse050_x264.mp4,Abuse,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Abuse/Abuse050_x264.mp4,39654017
+UCF-train,Assault001_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault001_x264.mp4,21066405
+UCF-train,Assault002_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault002_x264.mp4,22476834
+UCF-train,Assault003_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault003_x264.mp4,36996660
+UCF-train,Assault004_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault004_x264.mp4,26761725
+UCF-train,Assault005_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault005_x264.mp4,7142443
+UCF-train,Assault007_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault007_x264.mp4,18655704
+UCF-train,Assault008_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault008_x264.mp4,64507217
+UCF-train,Assault009_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault009_x264.mp4,30447821
+UCF-train,Assault012_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault012_x264.mp4,4989936
+UCF-train,Assault013_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault013_x264.mp4,15365954
+UCF-train,Assault014_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault014_x264.mp4,11083650
+UCF-train,Assault015_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault015_x264.mp4,13073396
+UCF-train,Assault016_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault016_x264.mp4,43823544
+UCF-train,Assault017_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault017_x264.mp4,24747870
+UCF-train,Assault018_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault018_x264.mp4,1060732
+UCF-train,Assault019_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault019_x264.mp4,16920347
+UCF-train,Assault020_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault020_x264.mp4,3912419
+UCF-train,Assault022_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault022_x264.mp4,16968901
+UCF-train,Assault023_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault023_x264.mp4,7103869
+UCF-train,Assault024_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault024_x264.mp4,4011669
+UCF-train,Assault025_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault025_x264.mp4,11651482
+UCF-train,Assault026_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault026_x264.mp4,4352934
+UCF-train,Assault027_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault027_x264.mp4,51472036
+UCF-train,Assault028_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault028_x264.mp4,22069311
+UCF-train,Assault029_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault029_x264.mp4,5037764
+UCF-train,Assault030_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault030_x264.mp4,14364391
+UCF-train,Assault031_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault031_x264.mp4,6574902
+UCF-train,Assault032_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault032_x264.mp4,4280894
+UCF-train,Assault033_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault033_x264.mp4,11223003
+UCF-train,Assault034_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault034_x264.mp4,16110825
+UCF-train,Assault035_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault035_x264.mp4,6208430
+UCF-train,Assault036_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault036_x264.mp4,5421191
+UCF-train,Assault037_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault037_x264.mp4,26740175
+UCF-train,Assault038_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault038_x264.mp4,1139915
+UCF-train,Assault039_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault039_x264.mp4,2026758
+UCF-train,Assault040_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault040_x264.mp4,21250665
+UCF-train,Assault041_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault041_x264.mp4,35096043
+UCF-train,Assault042_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault042_x264.mp4,79840060
+UCF-train,Assault044_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault044_x264.mp4,6662542
+UCF-train,Assault045_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault045_x264.mp4,6265796
+UCF-train,Assault046_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault046_x264.mp4,5694888
+UCF-train,Assault047_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault047_x264.mp4,17939544
+UCF-train,Assault048_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault048_x264.mp4,14955214
+UCF-train,Assault049_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault049_x264.mp4,4994381
+UCF-train,Assault050_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault050_x264.mp4,4371386
+UCF-train,Assault051_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault051_x264.mp4,4273777
+UCF-train,Assault052_x264.mp4,Assault,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-1/Anomaly-Videos-Part-1/Assault/Assault052_x264.mp4,5090465
+UCF-train,Fighting002_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting002_x264.mp4,16956492
+UCF-train,Fighting004_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting004_x264.mp4,121757725
+UCF-train,Fighting005_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting005_x264.mp4,8534771
+UCF-train,Fighting006_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting006_x264.mp4,9147032
+UCF-train,Fighting007_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting007_x264.mp4,31344116
+UCF-train,Fighting008_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting008_x264.mp4,110842342
+UCF-train,Fighting009_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting009_x264.mp4,17860208
+UCF-train,Fighting010_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting010_x264.mp4,45606324
+UCF-train,Fighting011_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting011_x264.mp4,69021009
+UCF-train,Fighting012_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting012_x264.mp4,9506976
+UCF-train,Fighting013_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting013_x264.mp4,12413136
+UCF-train,Fighting014_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting014_x264.mp4,38691052
+UCF-train,Fighting015_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting015_x264.mp4,88233589
+UCF-train,Fighting016_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting016_x264.mp4,22400970
+UCF-train,Fighting017_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting017_x264.mp4,18930560
+UCF-train,Fighting019_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting019_x264.mp4,26035495
+UCF-train,Fighting020_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting020_x264.mp4,18413539
+UCF-train,Fighting021_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting021_x264.mp4,30379660
+UCF-train,Fighting022_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting022_x264.mp4,36052528
+UCF-train,Fighting023_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting023_x264.mp4,3445440
+UCF-train,Fighting024_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting024_x264.mp4,54892178
+UCF-train,Fighting025_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting025_x264.mp4,42990902
+UCF-train,Fighting026_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting026_x264.mp4,16126352
+UCF-train,Fighting027_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting027_x264.mp4,33464183
+UCF-train,Fighting028_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting028_x264.mp4,22494921
+UCF-train,Fighting029_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting029_x264.mp4,20245334
+UCF-train,Fighting030_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting030_x264.mp4,17024220
+UCF-train,Fighting031_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting031_x264.mp4,77928450
+UCF-train,Fighting032_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting032_x264.mp4,12045086
+UCF-train,Fighting034_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting034_x264.mp4,46091937
+UCF-train,Fighting035_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting035_x264.mp4,6793254
+UCF-train,Fighting036_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting036_x264.mp4,31597724
+UCF-train,Fighting037_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting037_x264.mp4,32343397
+UCF-train,Fighting038_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting038_x264.mp4,6099419
+UCF-train,Fighting039_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting039_x264.mp4,59682298
+UCF-train,Fighting040_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting040_x264.mp4,14026415
+UCF-train,Fighting041_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting041_x264.mp4,205084749
+UCF-train,Fighting043_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting043_x264.mp4,27088160
+UCF-train,Fighting044_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting044_x264.mp4,53829387
+UCF-train,Fighting045_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting045_x264.mp4,51054642
+UCF-train,Fighting046_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting046_x264.mp4,24558635
+UCF-train,Fighting048_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting048_x264.mp4,52126697
+UCF-train,Fighting049_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting049_x264.mp4,8719638
+UCF-train,Fighting050_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting050_x264.mp4,238248264
+UCF-train,Fighting051_x264.mp4,Fighting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part_2/Anomaly-Videos-Part-2/Fighting/Fighting051_x264.mp4,54988600
+UCF-train,Robbery002_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery002_x264.mp4,8715149
+UCF-train,Robbery003_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery003_x264.mp4,5914729
+UCF-train,Robbery009_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery009_x264.mp4,19772974
+UCF-train,Robbery012_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery012_x264.mp4,6276164
+UCF-train,Robbery013_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery013_x264.mp4,24468592
+UCF-train,Robbery015_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery015_x264.mp4,15628777
+UCF-train,Robbery018_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery018_x264.mp4,23766080
+UCF-train,Robbery020_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery020_x264.mp4,31975085
+UCF-train,Robbery021_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery021_x264.mp4,67421171
+UCF-train,Robbery031_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery031_x264.mp4,8685701
+UCF-train,Robbery034_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery034_x264.mp4,53034937
+UCF-train,Robbery035_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery035_x264.mp4,38000175
+UCF-train,Robbery037_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery037_x264.mp4,73407462
+UCF-train,Robbery038_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery038_x264.mp4,14585964
+UCF-train,Robbery039_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery039_x264.mp4,4055661
+UCF-train,Robbery045_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery045_x264.mp4,27241854
+UCF-train,Robbery049_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery049_x264.mp4,11488177
+UCF-train,Robbery060_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery060_x264.mp4,10347240
+UCF-train,Robbery062_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery062_x264.mp4,20088912
+UCF-train,Robbery066_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery066_x264.mp4,27479775
+UCF-train,Robbery067_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery067_x264.mp4,18839146
+UCF-train,Robbery069_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery069_x264.mp4,5569575
+UCF-train,Robbery070_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery070_x264.mp4,4831871
+UCF-train,Robbery075_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery075_x264.mp4,17062409
+UCF-train,Robbery076_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery076_x264.mp4,6399267
+UCF-train,Robbery079_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery079_x264.mp4,4469619
+UCF-train,Robbery082_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery082_x264.mp4,4928556
+UCF-train,Robbery084_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery084_x264.mp4,22992148
+UCF-train,Robbery086_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery086_x264.mp4,39788538
+UCF-train,Robbery087_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery087_x264.mp4,8665238
+UCF-train,Robbery088_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery088_x264.mp4,42109957
+UCF-train,Robbery091_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery091_x264.mp4,12059256
+UCF-train,Robbery095_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery095_x264.mp4,7667174
+UCF-train,Robbery096_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery096_x264.mp4,28523166
+UCF-train,Robbery099_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery099_x264.mp4,13809698
+UCF-train,Robbery101_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery101_x264.mp4,24040106
+UCF-train,Robbery109_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery109_x264.mp4,17673337
+UCF-train,Robbery114_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery114_x264.mp4,16451956
+UCF-train,Robbery118_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery118_x264.mp4,12463512
+UCF-train,Robbery120_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery120_x264.mp4,6920518
+UCF-train,Robbery121_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery121_x264.mp4,7735759
+UCF-train,Robbery122_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery122_x264.mp4,5049914
+UCF-train,Robbery125_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery125_x264.mp4,60958717
+UCF-train,Robbery126_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery126_x264.mp4,13475086
+UCF-train,Robbery130_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery130_x264.mp4,13229183
+UCF-train,Robbery138_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery138_x264.mp4,4371386
+UCF-train,Robbery139_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery139_x264.mp4,7470514
+UCF-train,Robbery144_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery144_x264.mp4,4274411
+UCF-train,Robbery145_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery145_x264.mp4,9841870
+UCF-train,Robbery150_x264.mp4,Robbery,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Robbery/Robbery150_x264.mp4,9303812
+UCF-train,Shooting001_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting001_x264.mp4,2198741
+UCF-train,Shooting003_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting003_x264.mp4,10971483
+UCF-train,Shooting005_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting005_x264.mp4,18296741
+UCF-train,Shooting006_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting006_x264.mp4,58482169
+UCF-train,Shooting009_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting009_x264.mp4,42116509
+UCF-train,Shooting012_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting012_x264.mp4,10739877
+UCF-train,Shooting014_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting014_x264.mp4,43834515
+UCF-train,Shooting017_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting017_x264.mp4,6835002
+UCF-train,Shooting020_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting020_x264.mp4,43408700
+UCF-train,Shooting023_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting023_x264.mp4,2545500
+UCF-train,Shooting025_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting025_x264.mp4,20855288
+UCF-train,Shooting027_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting027_x264.mp4,5471304
+UCF-train,Shooting029_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting029_x264.mp4,5631655
+UCF-train,Shooting030_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting030_x264.mp4,4894079
+UCF-train,Shooting031_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting031_x264.mp4,17740748
+UCF-train,Shooting036_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting036_x264.mp4,32390434
+UCF-train,Shooting038_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting038_x264.mp4,5462092
+UCF-train,Shooting039_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting039_x264.mp4,4995682
+UCF-train,Shooting040_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting040_x264.mp4,7253113
+UCF-train,Shooting041_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting041_x264.mp4,8237252
+UCF-train,Shooting042_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting042_x264.mp4,13309328
+UCF-train,Shooting044_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting044_x264.mp4,2656996
+UCF-train,Shooting050_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting050_x264.mp4,17360439
+UCF-train,Shooting051_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting051_x264.mp4,7398646
+UCF-train,Shooting052_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting052_x264.mp4,41880007
+UCF-train,Shooting053_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting053_x264.mp4,7059517
+UCF-train,Shooting054_x264.mp4,Shooting,1,minhajuddinmeraj/anomalydetectiondatasetucf,Anomaly-Videos-Part-3/Anomaly-Videos-Part-3/Shooting/Shooting054_x264.mp4,5178004
+UCF-train,Normal_Videos002_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos002_x264.mp4,11965694
+UCF-train,Normal_Videos004_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos004_x264.mp4,5655281
+UCF-train,Normal_Videos012_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos012_x264.mp4,18981736
+UCF-train,Normal_Videos023_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos023_x264.mp4,7499955
+UCF-train,Normal_Videos031_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos031_x264.mp4,30055986
+UCF-train,Normal_Videos032_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos032_x264.mp4,5406607
+UCF-train,Normal_Videos036_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos036_x264.mp4,10571347
+UCF-train,Normal_Videos037_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos037_x264.mp4,3527442
+UCF-train,Normal_Videos053_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos053_x264.mp4,3028648
+UCF-train,Normal_Videos055_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos055_x264.mp4,1979234
+UCF-train,Normal_Videos058_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos058_x264.mp4,4418289
+UCF-train,Normal_Videos071_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos071_x264.mp4,7116486
+UCF-train,Normal_Videos074_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos074_x264.mp4,18591499
+UCF-train,Normal_Videos076_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos076_x264.mp4,28985393
+UCF-train,Normal_Videos080_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos080_x264.mp4,13351769
+UCF-train,Normal_Videos081_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos081_x264.mp4,12866315
+UCF-train,Normal_Videos084_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos084_x264.mp4,229379791
+UCF-train,Normal_Videos085_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos085_x264.mp4,22025604
+UCF-train,Normal_Videos090_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos090_x264.mp4,341774767
+UCF-train,Normal_Videos092_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos092_x264.mp4,14934780
+UCF-train,Normal_Videos104_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos104_x264.mp4,4291931
+UCF-train,Normal_Videos112_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos112_x264.mp4,3468436
+UCF-train,Normal_Videos114_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos114_x264.mp4,6102301
+UCF-train,Normal_Videos117_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos117_x264.mp4,8631724
+UCF-train,Normal_Videos118_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos118_x264.mp4,8480497
+UCF-train,Normal_Videos119_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos119_x264.mp4,21032211
+UCF-train,Normal_Videos127_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos127_x264.mp4,6734545
+UCF-train,Normal_Videos128_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos128_x264.mp4,17704981
+UCF-train,Normal_Videos132_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos132_x264.mp4,22119221
+UCF-train,Normal_Videos135_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos135_x264.mp4,8882281
+UCF-train,Normal_Videos142_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos142_x264.mp4,15697467
+UCF-train,Normal_Videos147_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos147_x264.mp4,2889662
+UCF-train,Normal_Videos154_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos154_x264.mp4,2560623
+UCF-train,Normal_Videos171_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos171_x264.mp4,135780450
+UCF-train,Normal_Videos192_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos192_x264.mp4,23151482
+UCF-train,Normal_Videos193_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos193_x264.mp4,24285190
+UCF-train,Normal_Videos197_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos197_x264.mp4,20476994
+UCF-train,Normal_Videos199_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos199_x264.mp4,22911477
+UCF-train,Normal_Videos202_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos202_x264.mp4,9923346
+UCF-train,Normal_Videos206_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos206_x264.mp4,45854029
+UCF-train,Normal_Videos209_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos209_x264.mp4,4582294
+UCF-train,Normal_Videos220_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos220_x264.mp4,16352604
+UCF-train,Normal_Videos225_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos225_x264.mp4,150093032
+UCF-train,Normal_Videos226_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos226_x264.mp4,102565374
+UCF-train,Normal_Videos228_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos228_x264.mp4,15028695
+UCF-train,Normal_Videos230_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos230_x264.mp4,4496156
+UCF-train,Normal_Videos231_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos231_x264.mp4,72456241
+UCF-train,Normal_Videos236_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos236_x264.mp4,15710068
+UCF-train,Normal_Videos238_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos238_x264.mp4,24556808
+UCF-train,Normal_Videos239_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos239_x264.mp4,12753522
+UCF-train,Normal_Videos241_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos241_x264.mp4,18510645
+UCF-train,Normal_Videos256_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos256_x264.mp4,16155083
+UCF-train,Normal_Videos257_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos257_x264.mp4,12834371
+UCF-train,Normal_Videos262_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos262_x264.mp4,52088501
+UCF-train,Normal_Videos264_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos264_x264.mp4,23454751
+UCF-train,Normal_Videos267_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos267_x264.mp4,27878386
+UCF-train,Normal_Videos270_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos270_x264.mp4,15746879
+UCF-train,Normal_Videos274_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos274_x264.mp4,59946384
+UCF-train,Normal_Videos277_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos277_x264.mp4,204178935
+UCF-train,Normal_Videos280_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos280_x264.mp4,21499921
+UCF-train,Normal_Videos282_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos282_x264.mp4,20185783
+UCF-train,Normal_Videos283_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos283_x264.mp4,68966751
+UCF-train,Normal_Videos284_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos284_x264.mp4,7448151
+UCF-train,Normal_Videos295_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos295_x264.mp4,5387545
+UCF-train,Normal_Videos296_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos296_x264.mp4,4812917
+UCF-train,Normal_Videos299_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos299_x264.mp4,7484008
+UCF-train,Normal_Videos305_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos305_x264.mp4,21233574
+UCF-train,Normal_Videos307_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos307_x264.mp4,5476070783
+UCF-train,Normal_Videos308_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos308_x264.mp4,8674006528
+UCF-train,Normal_Videos313_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos313_x264.mp4,10835970
+UCF-train,Normal_Videos321_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos321_x264.mp4,3863670
+UCF-train,Normal_Videos323_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos323_x264.mp4,526910968
+UCF-train,Normal_Videos328_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos328_x264.mp4,10066673
+UCF-train,Normal_Videos330_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos330_x264.mp4,7111346
+UCF-train,Normal_Videos336_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos336_x264.mp4,6180825
+UCF-train,Normal_Videos337_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos337_x264.mp4,2541900
+UCF-train,Normal_Videos344_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos344_x264.mp4,1046782
+UCF-train,Normal_Videos354_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos354_x264.mp4,9865931
+UCF-train,Normal_Videos355_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos355_x264.mp4,7153245
+UCF-train,Normal_Videos358_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos358_x264.mp4,14450598
+UCF-train,Normal_Videos361_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos361_x264.mp4,12056318
+UCF-train,Normal_Videos368_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos368_x264.mp4,7379798
+UCF-train,Normal_Videos370_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos370_x264.mp4,36015825
+UCF-train,Normal_Videos372_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos372_x264.mp4,4850322
+UCF-train,Normal_Videos376_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos376_x264.mp4,38197082
+UCF-train,Normal_Videos378_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos378_x264.mp4,3705367
+UCF-train,Normal_Videos380_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos380_x264.mp4,21064081
+UCF-train,Normal_Videos384_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos384_x264.mp4,20797917
+UCF-train,Normal_Videos389_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos389_x264.mp4,25202372
+UCF-train,Normal_Videos391_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos391_x264.mp4,39290178
+UCF-train,Normal_Videos399_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos399_x264.mp4,24938879
+UCF-train,Normal_Videos402_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos402_x264.mp4,4915373
+UCF-train,Normal_Videos407_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos407_x264.mp4,3833832
+UCF-train,Normal_Videos412_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos412_x264.mp4,5594274
+UCF-train,Normal_Videos423_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos423_x264.mp4,30706615
+UCF-train,Normal_Videos424_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos424_x264.mp4,58399821
+UCF-train,Normal_Videos428_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos428_x264.mp4,5638761
+UCF-train,Normal_Videos431_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos431_x264.mp4,23728116
+UCF-train,Normal_Videos438_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos438_x264.mp4,4734620
+UCF-train,Normal_Videos440_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos440_x264.mp4,6544034
+UCF-train,Normal_Videos454_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos454_x264.mp4,13267048
+UCF-train,Normal_Videos457_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos457_x264.mp4,14675174
+UCF-train,Normal_Videos458_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos458_x264.mp4,62829229
+UCF-train,Normal_Videos459_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos459_x264.mp4,61735208
+UCF-train,Normal_Videos460_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos460_x264.mp4,64055757
+UCF-train,Normal_Videos463_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos463_x264.mp4,85939718
+UCF-train,Normal_Videos466_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos466_x264.mp4,16723206
+UCF-train,Normal_Videos472_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos472_x264.mp4,1510666158
+UCF-train,Normal_Videos475_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos475_x264.mp4,146165904
+UCF-train,Normal_Videos476_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos476_x264.mp4,39503051
+UCF-train,Normal_Videos486_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos486_x264.mp4,21480273
+UCF-train,Normal_Videos487_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos487_x264.mp4,3023118
+UCF-train,Normal_Videos488_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos488_x264.mp4,9221103
+UCF-train,Normal_Videos494_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos494_x264.mp4,250533927
+UCF-train,Normal_Videos499_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos499_x264.mp4,18640626
+UCF-train,Normal_Videos500_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos500_x264.mp4,3260842
+UCF-train,Normal_Videos504_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos504_x264.mp4,4477485
+UCF-train,Normal_Videos505_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos505_x264.mp4,4373450
+UCF-train,Normal_Videos508_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos508_x264.mp4,11984404
+UCF-train,Normal_Videos510_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos510_x264.mp4,228920118
+UCF-train,Normal_Videos519_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos519_x264.mp4,15291997
+UCF-train,Normal_Videos522_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos522_x264.mp4,52085027
+UCF-train,Normal_Videos524_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos524_x264.mp4,82764126
+UCF-train,Normal_Videos525_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos525_x264.mp4,269318388
+UCF-train,Normal_Videos526_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos526_x264.mp4,68171737
+UCF-train,Normal_Videos527_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos527_x264.mp4,10460764
+UCF-train,Normal_Videos539_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos539_x264.mp4,8573029
+UCF-train,Normal_Videos543_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos543_x264.mp4,270439700
+UCF-train,Normal_Videos545_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos545_x264.mp4,71114502
+UCF-train,Normal_Videos546_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos546_x264.mp4,28883204
+UCF-train,Normal_Videos547_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos547_x264.mp4,1401561613
+UCF-train,Normal_Videos553_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos553_x264.mp4,102472478
+UCF-train,Normal_Videos555_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos555_x264.mp4,6480089
+UCF-train,Normal_Videos568_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos568_x264.mp4,59385022
+UCF-train,Normal_Videos575_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos575_x264.mp4,28225637
+UCF-train,Normal_Videos577_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos577_x264.mp4,67462950
+UCF-train,Normal_Videos588_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos588_x264.mp4,44933982
+UCF-train,Normal_Videos591_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos591_x264.mp4,70759593
+UCF-train,Normal_Videos596_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos596_x264.mp4,16352604
+UCF-train,Normal_Videos598_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos598_x264.mp4,59257472
+UCF-train,Normal_Videos599_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos599_x264.mp4,18848580
+UCF-train,Normal_Videos602_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos602_x264.mp4,43088738
+UCF-train,Normal_Videos610_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos610_x264.mp4,6671927
+UCF-train,Normal_Videos612_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos612_x264.mp4,53264408
+UCF-train,Normal_Videos613_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos613_x264.mp4,49984011
+UCF-train,Normal_Videos628_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos628_x264.mp4,7544159
+UCF-train,Normal_Videos629_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos629_x264.mp4,38801308
+UCF-train,Normal_Videos630_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos630_x264.mp4,343316264
+UCF-train,Normal_Videos636_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos636_x264.mp4,3903781
+UCF-train,Normal_Videos637_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos637_x264.mp4,18433635
+UCF-train,Normal_Videos640_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos640_x264.mp4,14368464
+UCF-train,Normal_Videos655_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos655_x264.mp4,67144280
+UCF-train,Normal_Videos667_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos667_x264.mp4,6884809
+UCF-train,Normal_Videos671_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos671_x264.mp4,5811968
+UCF-train,Normal_Videos672_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos672_x264.mp4,11000594
+UCF-train,Normal_Videos675_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos675_x264.mp4,12022646
+UCF-train,Normal_Videos681_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos681_x264.mp4,226431527
+UCF-train,Normal_Videos683_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos683_x264.mp4,182497792
+UCF-train,Normal_Videos688_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos688_x264.mp4,182758241
+UCF-train,Normal_Videos689_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos689_x264.mp4,130343928
+UCF-train,Normal_Videos691_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos691_x264.mp4,140681436
+UCF-train,Normal_Videos703_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos703_x264.mp4,9820124
+UCF-train,Normal_Videos709_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos709_x264.mp4,21865390
+UCF-train,Normal_Videos713_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos713_x264.mp4,588506464
+UCF-train,Normal_Videos714_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos714_x264.mp4,490467646
+UCF-train,Normal_Videos718_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos718_x264.mp4,266152397
+UCF-train,Normal_Videos721_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos721_x264.mp4,15715047
+UCF-train,Normal_Videos724_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos724_x264.mp4,9233014
+UCF-train,Normal_Videos728_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos728_x264.mp4,19345185
+UCF-train,Normal_Videos750_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos750_x264.mp4,8928922
+UCF-train,Normal_Videos751_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos751_x264.mp4,6638829
+UCF-train,Normal_Videos754_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos754_x264.mp4,9261831
+UCF-train,Normal_Videos761_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos761_x264.mp4,26237903
+UCF-train,Normal_Videos765_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos765_x264.mp4,8648960
+UCF-train,Normal_Videos779_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos779_x264.mp4,2652563
+UCF-train,Normal_Videos788_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos788_x264.mp4,8842929
+UCF-train,Normal_Videos792_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos792_x264.mp4,69651703
+UCF-train,Normal_Videos807_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos807_x264.mp4,26376540
+UCF-train,Normal_Videos808_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos808_x264.mp4,25450011
+UCF-train,Normal_Videos809_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos809_x264.mp4,21581392
+UCF-train,Normal_Videos814_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos814_x264.mp4,23441478
+UCF-train,Normal_Videos817_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos817_x264.mp4,26074134
+UCF-train,Normal_Videos818_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos818_x264.mp4,5869429
+UCF-train,Normal_Videos820_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos820_x264.mp4,5509810
+UCF-train,Normal_Videos822_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos822_x264.mp4,16910065
+UCF-train,Normal_Videos826_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos826_x264.mp4,8694595
+UCF-train,Normal_Videos830_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos830_x264.mp4,23730321
+UCF-train,Normal_Videos834_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos834_x264.mp4,23325623
+UCF-train,Normal_Videos839_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos839_x264.mp4,2697976
+UCF-train,Normal_Videos842_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos842_x264.mp4,7661229
+UCF-train,Normal_Videos845_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos845_x264.mp4,4553775
+UCF-train,Normal_Videos846_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos846_x264.mp4,12916717
+UCF-train,Normal_Videos847_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos847_x264.mp4,21582260
+UCF-train,Normal_Videos853_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos853_x264.mp4,9072686
+UCF-train,Normal_Videos857_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos857_x264.mp4,4130883
+UCF-train,Normal_Videos859_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos859_x264.mp4,5930906
+UCF-train,Normal_Videos860_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos860_x264.mp4,7824057
+UCF-train,Normal_Videos920_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos920_x264.mp4,9934182
+UCF-train,Normal_Videos922_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos922_x264.mp4,5310886
+UCF-train,Normal_Videos949_x264.mp4,Training_Normal_Videos_Anomaly,0,bypktt/ucf-crimes,Real-world Anomaly Detection in Surveillance Videos (UCF)/Training-Normal-Videos/Normal_Videos949_x264.mp4,9613097

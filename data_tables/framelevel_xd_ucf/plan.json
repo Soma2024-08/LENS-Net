@@ -1,0 +1,18 @@
+{
+  "missing_ucf": [],
+  "n_videos": {
+    "UCF": 290,
+    "XD": 799
+  },
+  "contaminated_videos": [
+    "Assault006_x264",
+    "Assault010_x264",
+    "Assault011_x264",
+    "Fighting018_x264",
+    "Fighting033_x264",
+    "Fighting042_x264",
+    "Fighting047_x264",
+    "Robbery102_x264",
+    "v=BpargJW29Wo__#00-00-50_00-01-30_label_B1-0-0"
+  ]
+}

@@ -1,0 +1,35 @@
+# Datasets, frames and features are never committed (dataset licences forbid redistribution)
+raw_data/
+*.mp4
+*.avi
+*.jpg
+
+# Released separately (reproduce/get_predictions.sh): predictions, run outputs, features
+workspace/
+source_benchmark/
+lensnet_predictions.tar.xz
+
+# Checkpoints and large arrays
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.f16
+
+# LaTeX build outputs (paper/ holds only the table and figure generators)
+paper/tables/*.tex
+*.aux
+*.log
+*.out
+*.pdf
+
+# Python / editor
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/

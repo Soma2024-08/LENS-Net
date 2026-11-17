@@ -1,0 +1,124 @@
+{
+  "std_rwf": {
+    "windows": 5826,
+    "videos": {
+      "train": 1389,
+      "val": 155,
+      "test": 398
+    },
+    "test_videos_linked_to_train": 8,
+    "test_videos": 398,
+    "linked_pct": 2.0100502512562812,
+    "official_videos_missing_from_benchmark": 58
+  },
+  "std_hockey_f0": {
+    "windows": 997,
+    "videos": {
+      "train": 717,
+      "val": 80,
+      "test": 200
+    },
+    "test_videos_linked_to_train": 91,
+    "test_videos": 200,
+    "linked_pct": 45.5
+  },
+  "std_hockey_f1": {
+    "windows": 997,
+    "videos": {
+      "train": 717,
+      "val": 80,
+      "test": 200
+    },
+    "test_videos_linked_to_train": 101,
+    "test_videos": 200,
+    "linked_pct": 50.5
+  },
+  "std_hockey_f2": {
+    "windows": 997,
+    "videos": {
+      "train": 718,
+      "val": 80,
+      "test": 199
+    },
+    "test_videos_linked_to_train": 92,
+    "test_videos": 199,
+    "linked_pct": 46.231155778894475
+  },
+  "std_hockey_f3": {
+    "windows": 997,
+    "videos": {
+      "train": 718,
+      "val": 80,
+      "test": 199
+    },
+    "test_videos_linked_to_train": 93,
+    "test_videos": 199,
+    "linked_pct": 46.733668341708544
+  },
+  "std_hockey_f4": {
+    "windows": 997,
+    "videos": {
+      "train": 718,
+      "val": 80,
+      "test": 199
+    },
+    "test_videos_linked_to_train": 94,
+    "test_videos": 199,
+    "linked_pct": 47.23618090452261
+  },
+  "std_rlvs_f0": {
+    "windows": 5691,
+    "videos": {
+      "train": 1429,
+      "val": 159,
+      "test": 397
+    },
+    "test_videos_linked_to_train": 95,
+    "test_videos": 397,
+    "linked_pct": 23.929471032745592
+  },
+  "std_rlvs_f1": {
+    "windows": 5691,
+    "videos": {
+      "train": 1429,
+      "val": 159,
+      "test": 397
+    },
+    "test_videos_linked_to_train": 93,
+    "test_videos": 397,
+    "linked_pct": 23.425692695214106
+  },
+  "std_rlvs_f2": {
+    "windows": 5691,
+    "videos": {
+      "train": 1429,
+      "val": 159,
+      "test": 397
+    },
+    "test_videos_linked_to_train": 93,
+    "test_videos": 397,
+    "linked_pct": 23.425692695214106
+  },
+  "std_rlvs_f3": {
+    "windows": 5691,
+    "videos": {
+      "train": 1429,
+      "val": 159,
+      "test": 397
+    },
+    "test_videos_linked_to_train": 92,
+    "test_videos": 397,
+    "linked_pct": 23.173803526448363
+  },
+  "std_rlvs_f4": {
+    "windows": 5691,
+    "videos": {
+      "train": 1429,
+      "val": 159,
+      "test": 397
+    },
+    "test_videos_linked_to_train": 99,
+    "test_videos": 397,
+    "linked_pct": 24.937027707808564
+  }
+}

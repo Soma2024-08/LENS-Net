@@ -1,0 +1,46 @@
+How to verify the timestamps of these files
+
+Each file X has a proof X.ots made with OpenTimestamps (https://opentimestamps.org) on 22 October 2026. The proof
+commits the SHA-256 hash of X to the Bitcoin blockchain; it shows that X existed in exactly this form no later than
+the time of the block, and that it has not changed since. It does not show when the text was first written; the dated
+md5 log (prereg_md5_log.txt) records that, as kept by the authors.
+
+Verify in a browser: open https://opentimestamps.org, drop the .ots file and then the original file onto the page.
+Verify on the command line:  pip install opentimestamps-client;  ots verify PREREG_revision.md.ots
+
+Second version (24 October 2026): PREREG_revision_2026-10-24.md and prereg_md5_log_2026-10-24.txt add the last analysis
+plans (Part E5, the comparison of decision-level fusion rules, and the final labelling notes); each has its own .ots
+proof. The files of 22 October are unchanged, so their proofs remain valid.
+
+Third version (25 October 2026): PREREG_revision_2026-10-25.md and prereg_md5_log_2026-10-25.txt add Part E6 (member
+diversity and fusion gain); each has its own .ots proof.
+
+Fourth version (25 October 2026, later): PREREG_revision_2026-10-25b.md and prereg_md5_log_2026-10-25b.txt add Part D1c
+(second independent rater); each has its own .ots proof.
+
+Fifth version (25 October 2026): PREREG_revision_2026-10-25c.md and prereg_md5_log_2026-10-25c.txt add Part F
+(anchored ensemble selection and its confirmation claims F1-F6); each has its own .ots proof.
+
+Sixth version (26 October 2026): PREREG_revision_2026-10-26.md and prereg_md5_log_2026-10-26.txt add the Part F result
+and the post-hoc note, recorded after scoring; Part F itself is timestamped in the 25c files, before scoring.
+
+Seventh version (26 October 2026): PREREG_revision_2026-10-26b.md, prereg_md5_log_2026-10-26b.txt and the two conf4_*
+selection lists add Part G (further untouched confirmation and ensemble baselines); each has its own .ots proof.
+
+Eighth version (26 October 2026): PREREG_revision_2026-10-26c.md and prereg_md5_log_2026-10-26c.txt add the
+Part G note on VadCLIP (before analysis) and the Part G result (after scoring); Part G itself is in the 26b files.
+
+Ninth version (26 October 2026): PREREG_revision_2026-10-26d.md and prereg_md5_log_2026-10-26d.txt add Part H (fusion
+baselines from the information-fusion literature, intervals, window-level results); each has its own .ots proof.
+
+Tenth version (26 October 2026): PREREG_revision_2026-10-26e.md and prereg_md5_log_2026-10-26e.txt add the
+Part H result, recorded after computation; Part H itself is in the 26d files.
+
+Eleventh version (26 October 2026, latest): PREREG_revision_2026-10-26f.md and prereg_md5_log_2026-10-26f.txt add
+Part I (descriptive complementarity of the anchor and LENS-Net for one figure), recorded before computation.
+
+Bitcoin confirmation of the 26c-26f proofs: block 973268 (26 October 2026, 23:50 IST). This block is later than the
+computation of Part H (22:41 IST) and Part I (23:45 IST), so for these two descriptive parts the proofs show only that
+the plans have not changed since 23:50 IST; that each plan preceded its computation rests on the dated md5 log.
+Part F (block 973082, 25 October 20:09 IST) and Part G (block 973177, 26 October 09:04 IST) were confirmed before
+their analyses.

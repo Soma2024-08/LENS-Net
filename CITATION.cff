@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the source-controlled splits, please cite the paper."
+title: "Fusing Language and Motion Evidence Under Domain Shift: A Source-Controlled Study of Cross-Dataset Violence Detection"
+type: software
+license: MIT
+repository-code: "https://github.com/Soma2024-08/LENS-Net"
+authors:
+  - given-names: Soma
+    family-names: Samanta
+    affiliation: "Dayananda Sagar University, Bengaluru, India"
+  - given-names: Akhil Pratap
+    family-names: Singh
+    affiliation: "Dayananda Sagar University, Bengaluru, India"
+  - given-names: Manju
+    family-names: Khurana
+    affiliation: "Thapar Institute of Engineering and Technology, Patiala, India"
+  - given-names: Shailendra
+    family-names: Tiwari
+    affiliation: "Thapar Institute of Engineering and Technology, Patiala, India"
+keywords:
+  - violence detection
+  - information fusion
+  - decision-level fusion
+  - cross-dataset generalisation
+  - vision-language models
+  - data leakage
